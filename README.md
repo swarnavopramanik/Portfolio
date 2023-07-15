@@ -22,6 +22,10 @@
 
 This is a template for creating a portfolio with Tailwind CSS and Next.js.
 
+👀 Live Demo 👇
+
+[Click here](https://portfolio-1701.vercel.app/)
+
 ## How it works
 
 Fork or download the repo and change whatever you need to change for your needs.
@@ -35,6 +39,3 @@ npm install
 npm run dev
 ```
 
- 👀 Live Demo 👇
- 
- [Click here](https://portfolio-1701.vercel.app/)
