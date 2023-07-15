@@ -17,14 +17,15 @@
       <img src="https://img.shields.io/github/last-commit/DevFeed404/DevFeed-1.0?style=for-the-badge" />
  </div>
 
+ 👀👀Live Demo 👇
+
+ [Click here](https://portfolio-1701.vercel.app/)
+
  
 # Tailwind CSS and Next.js Portfolio
 
 This is a template for creating a portfolio with Tailwind CSS and Next.js.
 
- 👀👀Live Demo 👇
-
- [Click here](https://portfolio-1701.vercel.app/)
 
 ## How it works
 
